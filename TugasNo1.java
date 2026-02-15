@@ -5,6 +5,7 @@ public class TugasNo1 {
         // 1. Inisialisasi Array Satu Dimensi untuk KODE [10]
         char[] KODE = {'A', 'B', 'D', 'E', 'F', 'G', 'H', 'L', 'N', 'T'};
 
+        
         // 2. Inisialisasi Array Dua Dimensi untuk KOTA [10][12]
         // Setiap baris mewakili satu kota yang sesuai dengan indeks di array KODE
         char[][] KOTA = {
