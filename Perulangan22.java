@@ -33,6 +33,7 @@ public class Perulangan22 {
             }
         }
 
+        
         sc.close();
     }
 }
