@@ -21,6 +21,7 @@ public class TugasNo2 {
         }
     }
 
+    
     // Fungsi untuk menampilkan semua jadwal dalam tabel
     public static void tampilkanJadwal(String[][] jadwal) {
         System.out.println("\n===== JADWAL KULIAH =====");
