@@ -9,6 +9,7 @@ public class fungsi22 {
         return total;
     }
 
+    
     // Fungsi untuk menentukan status cabang
     public static String cekStatus(int pendapatan) {
         if (pendapatan > 1500000) {
